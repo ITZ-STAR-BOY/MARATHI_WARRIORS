@@ -2,8 +2,8 @@
 
 # DEPLOY A BOT AND FUCK YOUR ENEMIES😈
 
-[Group](t.me/MARATHIWARRIORS)
-[Channel](t.me/MARATH_IWARRIORS)
+[Group](https://t.me/MARATHIWARRIORS)
+[Channel](https://t.me/MARATH_IWARRIORS)
 
 # Click The Image And Deploy Your Bot
 
