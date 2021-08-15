@@ -2,9 +2,9 @@
 
 # DEPLOY A BOT AND FUCK YOUR ENEMIES😈
 
-[Group](t.me/SiderzChat)
-[Channel](t.me/SiderzBot)
+[Group](t.me/MARATHIWARRIORS)
+[Channel](t.me/MARATH_IWARRIORS)
 
-## Click The Image And Deploy Your Bot
+# Click The Image And Deploy Your Bot
 
-[![Deploy](https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)](https://heroku.com/deploy?template=https://github.com/DarkCybers/innexia.git)
+[![Deploy](https://telegra.ph/file/7d56815a7d7431a587bfa.jpg)](https://heroku.com/deploy?template=https://github.com/DarkCybers/innexia.git)
