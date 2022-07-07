@@ -7,7 +7,7 @@
 
 # Click The Image And Deploy Your Bot
 
-[![𝐃𝐄𝐏𝐋𝐎𝐘](https://telegra.ph/file/7d56815a7d7431a587bfa.jpg)](https://heroku.com/deploy?template=https://github.com/tana9373/MARATHI_WARRIORS)
+[![𝐃𝐄𝐏𝐋𝐎𝐘](https://telegra.ph/file/7d56815a7d7431a587bfa.jpg)](https://heroku.com/deploy?template=https://github.com/ITZ-STAR-BOY/MARATHI_WARRIORS)
 
 
 - Generate on Repl [⚜ 𝐑𝐄𝐏𝐋 ⚜](https://replit.com/@Tanajimusic/MARATHI-WARRIORS#main.py)
